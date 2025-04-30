@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/PraveenGanthP">
+  <a href="https://github.com/PraveenGanth V">
     <svg width="600" height="100">
       <defs>
         <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
