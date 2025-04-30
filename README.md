@@ -1,20 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Hey%20there,%20I'm%20@praveenganthp;💻%20MERN%20stack%20developer%20passionate%20about%20crafting%20user%20experiences;✨%20Diving%20deep%20into%20full-stack%20development;" alt="Typing SVG" />
+  <a href="https://github.com/PraveenGanthP">
+    <svg width="600" height="100">
+      <defs>
+        <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#833ab4" />
+          <stop offset="50%" stop-color="#fd1d1d" />
+          <stop offset="100%" stop-color="#fcb045" />
+        </linearGradient>
+      </defs>
+      <rect width="600" height="100" fill="url(#headerGradient)" rx="15" ry="15" />
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="2em" fill="white">
+        👋 Hello there! I'm @PraveenGanthP
+      </text>
+    </svg>
+  </a>
 </p>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Skill Badges" width="500"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,nodejs,express,mongodb,mysql,wordpress&perline=5" alt="Skills" />
+  </a>
 </p>
 
 <p align="center">
-  <code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></code>
-  <code><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></code>
-  <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
-  <code><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></code>
-  <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></code>
-  <code><a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a></code>
+  <a href="https://github.com/PraveenGanthP">
+    <img src="https://github-readme-stats.vercel.app/api?username=PraveenGanthP&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  🌱 Currently leveling up my skills! Let's connect: <a href="mailto:vpraveenganth666@gmail.com">vpraveenganth666@gmail.com</a> 💼
+  <a href="https://github.com/PraveenGanthP">
+    <img src="https://streak-stats.demolab.com/?user=PraveenGanthP&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <svg width="300" height="50">
+    <defs>
+      <linearGradient id="contactGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#007bff" />
+        <stop offset="100%" stop-color="#6610f2" />
+      </linearGradient>
+    </defs>
+    <rect width="300" height="50" fill="url(#contactGradient)" rx="10" ry="10" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="1.2em" fill="white">
+      📫 Contact: vpraveenganth666@gmail.com
+    </text>
+  </svg>
 </p>
