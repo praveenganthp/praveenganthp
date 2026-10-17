@@ -8,13 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/praveenganthp">
-<img src="https://komarev.com/ghpvc/?username=praveenganthp&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/praveenganthp?tab=followers">
-<img src="https://img.shields.io/github/followers/praveenganthp?style=for-the-badge&color=7C3AED&labelColor=0F172A&label=FOLLOWERS" alt="GitHub followers" />
-</a>
-
 </div>
 
 ---
