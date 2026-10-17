@@ -36,35 +36,37 @@ I work across frontend development, backend APIs, AI-powered applications, datab
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Redux, Vite" />
 
-### Backend Development & APIs
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,mysql,prisma&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,mysql&theme=dark" alt="Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, MySQL" />
 
-### AI & Application Integration
+### AI Integration
 
-<img src="https://skillicons.dev/icons?i=openai,python&theme=dark" alt="AI and Python technologies" />
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="OpenAI" />
 
-`OpenAI API` · `Vercel AI SDK` · `Prompt Engineering` · `AI-assisted workflows` · `REST API Integration`
+`OpenAI API` · `Vercel AI SDK` · `Prompt Engineering`
 
-### Cloud, DevOps & Deployment
+### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,git,github&theme=dark" alt="Cloud and DevOps technologies" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,git,github&theme=dark" alt="AWS, Docker, Nginx, Linux, Bash, Git, GitHub" />
 
-`AWS EC2` · `Ubuntu` · `Nginx` · `HTTPS / SSL` · `DNS & Custom Domains` · `PM2` · `Deployment & Troubleshooting`
+`EC2` · `DNS & Custom Domains` · `HTTPS / SSL` · `PM2` · `Deployment`
 
-### Mobile & Developer Tools
+### Mobile & Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,vscode,postman,figma&theme=dark" alt="Mobile and development tools" />
-
-`Flutter` · `Dart` · `Swagger / OpenAPI` · `Chrome DevTools` · `Git`
+<img src="https://skillicons.dev/icons?i=flutter,dart,vscode,postman,figma&theme=dark" alt="Flutter, Dart, VS Code, Postman, Figma" />
 
 ### Architecture & Engineering
 
-`Atomic Design` · `Redux Toolkit` · `RTK Query` · `Context API` · `JWT Authentication` · `Role-Based Access Control` · `Formik` · `Yup` · `REST APIs` · `WebSockets` · `Offline Data Synchronization` · `WCAG Accessibility`
+`Redux Toolkit` · `RTK Query` · `Context API` · `Atomic Design`
+
+`JWT` · `RBAC` · `REST APIs` · `WebSockets` · `Offline Sync`
+
+`WCAG Accessibility` · `Formik` · `Yup` · `Responsive Design`
 
 </div>
 
