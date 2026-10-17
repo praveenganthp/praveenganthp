@@ -93,13 +93,13 @@ A platform connecting students and tutors, with profiles, tutor discovery, booki
 - Custom domain and HTTPS
 - Netlify frontend hosting
 
-<a href="https://github.com/praveenganthp/local_tutor">
+<!-- <a href="https://github.com/praveenganthp/local_tutor">
 <img src="https://img.shields.io/badge/Frontend%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Local Tutor frontend repository" />
 </a>
 
 <a href="https://github.com/praveenganthp/local_tutor_bac">
 <img src="https://img.shields.io/badge/Backend%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Local Tutor backend repository" />
-</a>
+</a> -->
 
 </td>
 <td width="50%" valign="top">
