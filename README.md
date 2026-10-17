@@ -203,17 +203,23 @@ From frontend components to backend APIs, database connections, server configura
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=praveenganthp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=praveenganthp&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenganthp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenganthp&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=praveenganthp&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=praveenganthp&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenganthp&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+---
+
+## 🟩 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/praveenganthp/praveenganthp/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
 
 </div>
 
