@@ -1,7 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:2563EB,75:7C3AED,100:06B6D4&height=230&section=header&text=Praveenganth%20V&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=57&descColor=DBEAFE&animation=fadeIn" width="100%" alt="Animated profile header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:1D4ED8,75:6D28D9,100:0891B2&height=220&section=header&text=Praveenganth%20V&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%7C%20CLOUD&descSize=16&descAlignY=58&descColor=BAE6FD&animation=fadeIn" width="100%" alt="Praveenganth V — Full Stack Developer" />
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+end-to-end+web+applications;Turning+ideas+into+production-ready+products;Exploring+AI%2C+cloud+and+backend+engineering;React+%7C+TypeScript+%7C+Node.js+%7C+AWS" alt="Typing animation" />
 </a>
