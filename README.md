@@ -113,16 +113,45 @@ I'm a **Full Stack & Cloud Engineer** based in Chennai, India, specializing in b
 
 ## 🧰 Technical Arsenal
 
-<div align="center">
+### 🌐 Frontend Engineering
+<p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-| Domain | Core Technologies & Tooling |
-| :--- | :--- |
-| **Frontend Engineering** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,vite&theme=dark" /><br/>`React 19` · `Next.js` · `TypeScript` · `Tailwind CSS v4` · `Framer Motion` · `Redux Toolkit` |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgres,mongodb,mysql&theme=dark" /><br/>`Node.js` · `FastAPI` · `Express` · `Python` · `PostgreSQL` · `MongoDB` · `REST` · `WebSockets` |
-| **Cloud & Systems** | <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,bash,git,github&theme=dark" /><br/>`AWS EC2` · `Reverse Proxies (Nginx)` · `Docker` · `SSL/TLS Certbot` · `PM2` · `CI/CD` |
-| **AI & Mobile** | <img src="https://skillicons.dev/icons?i=openai,flutter,dart,postman,figma&theme=dark" /><br/>`OpenAI API` · `Vercel AI SDK` · `Prompt Engineering` · `Flutter` · `Dart` · `Postman` |
+### ⚙️ Backend & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
-</div>
+### 🤖 Applied AI & Workflows
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0891B2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clinical_NLP-10B981?style=for-the-badge&logo=health&logoColor=white" />
+</p>
+
+### ☁️ Cloud, DevOps & Mobile
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
